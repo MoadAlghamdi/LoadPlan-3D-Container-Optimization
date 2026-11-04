@@ -1,0 +1,21 @@
+name,length_cm,width_cm,height_cm,weight_kg,qty,fragile,stackable,tip,max_load_kg,priority,Category,Expiry_Date
+Pallet crate,120,100,110,198.0,8,0,1,0,500,4,General,
+Appliance box,80,70,90,60.5,14,0,1,0,180,3,General,
+Carton large,60,40,40,17.3,50,0,1,1,100,3,General,
+Carton small,40,30,30,7.2,70,0,1,1,60,2,General,
+Glassware,50,40,35,9.1,20,1,0,0,0,5,Glass,
+Steel drum,60,60,90,51.8,12,0,0,0,0,3,General,
+LED Monitor,30,30,60,120.0,14,1,1,1,0,3,Electronics,
+Coffee Machine,180,40,40,35.0,18,1,1,1,800,3,Electronics,
+Microwave Oven,220,30,20,120.0,20,1,1,1,0,5,Electronics,
+Dining Chair,80,25,20,120.0,17,0,1,0,800,4,Furniture,
+Glass Vase Set,40,30,50,60.0,2,1,0,1,800,3,Glass,
+Ceramic Plates,220,25,100,500.0,7,0,1,0,800,5,General,
+Car Brake Pads,120,30,30,35.0,6,0,1,0,50,4,Automotive,
+Printer,50,100,80,120.0,10,1,1,1,50,2,Electronics,
+Frozen Chicken,150,25,40,60.0,16,0,1,0,120,2,Food,2027-01-06
+Canned Beans,50,100,20,35.0,12,0,1,0,500,2,Food,2027-12-09
+Vacuum Cleaner,220,100,80,500.0,10,1,1,1,800,2,Electronics,
+Electric Kettle,50,100,40,60.0,6,1,1,1,200,5,Electronics,
+Bookshelf,220,25,40,12.0,11,0,1,0,80,2,Furniture,
+Router Box,50,40,50,35.0,2,1,1,1,120,4,Electronics,
