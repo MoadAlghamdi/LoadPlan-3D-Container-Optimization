@@ -1,5 +1,4 @@
-# LoadPlan---3D-Container-Optimization
-Interactive 3D container loading planner with constraint-based packing, genetic algorithm optimization, and multi-container shipment planning.
+
 # LoadPlan — Automated Container Load Optimization
 
 A browser-based application for planning and visualizing cargo placement inside containers. LoadPlan combines a constraint-based 3D packing heuristic with a genetic algorithm that searches for better cargo loading orders.
